@@ -2,6 +2,7 @@
 # Welcome to Fab Lab Gharbiya
 
 Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
+This is a new file
 
 ## Training contents
 
@@ -11,4 +12,3 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - OpenScad
 - KiCad
 - Inkscape
-- 
