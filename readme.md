@@ -36,4 +36,5 @@ This is a new file
 - Free up minimum 70 GB
 - Shrink that space
 - Create a bootable usb with RUFUS software
-- 
+
+![alt text][logo]
