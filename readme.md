@@ -37,4 +37,4 @@ This is a new file
 - Shrink that space
 - Create a bootable usb with RUFUS software
 
-![alt text][logo]
+![screenshot1](picture.png)
