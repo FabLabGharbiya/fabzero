@@ -31,15 +31,15 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 
 ### How to install Ubuntu OS beside Windows 10
 
-- Free up minimum 70 GB
-- Shrink that space
-- Create a bootable usb with RUFUS software
-- Boot from usb drive
-- Continue until page that let you choose between automatic installation and custom installation
-- Select something else
-- New partition
-- Make root partition
-- /
+1. Free up minimum 70 GB
+2. Shrink that space
+3. Create a bootable usb with RUFUS software
+4. Boot from usb drive
+5. Continue until page that let you choose between automatic installation and custom installation
+6. Select something else
+7. New partition
+8. Make root partition
+9. /
 
 ### Terminal Commands
 
@@ -70,35 +70,35 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 
 ### github
 
-- First sign up for github and register your information and confirm your email
-- Naming the file readme.md ease showing it as a default document when open the respotory
-- My respotory can be public or private
-- First we create readme.md file, then push it to github, later we can edit it and write a commit of the editing
-- Text, images, emoji, tables, etc.... can be added to the file
+1. First sign up for github and register your information and confirm your email
+2. Naming the file readme.md ease showing it as a default document when open the respotory
+3. My respotory can be public or private
+4. First we create readme.md file, then push it to github, later we can edit it and write a commit of the editing
+5. Text, images, emoji, tables, etc.... can be added to the file
 
 ### Steps of dealing with github
 
-- Sign up github
-- Confirm email
-- login with the registered email
-- Create new respotory (prefet names fabzero for now)
-- There are steps are shown on the new respotory page you should follow as you inside your local folder that contains your readme.md file like
-  - git init
-    - If the first command faced a problem caused by absent of git, you should follow the instructions appear to fix it
-  - git add readme.md
-  - git commit -m "first commit"
-    - The message between the two symbols "" should be related to the editing
-  - git remote add origin https://github.com/fablabgharbiya/fab.git
-    - fablabgharbiya: depending on your user name and respotory name
-  - git push -u origin master
-    - used to push the file to the respotory
-- If you want to edit the readme.md
-    - Edit your file
-    - Open your terminal
-    - Change your directory to the readme.md file
-    - Write the following commands
-        - git add .
-            - used to add all modified files only
+1. Sign up github
+2. Confirm email
+3. login with the registered email
+4. Create new respotory (prefet names fabzero for now)
+5. There are steps are shown on the new respotory page you should follow as you inside your local folder that contains your readme.md file like
+    - git init
+      - If the first command faced a problem caused by absent of git, you should follow the instructions appear to fix it
+   - git add readme.md
+   - git commit -m "first commit"
+     - The message between the two symbols "" should be related to the editing
+   - git remote add origin https://github.com/fablabgharbiya/fab.git
+     - fablabgharbiya: depending on your user name and respotory name
+   - git push -u origin master
+     - used to push the file to the respotory
+6. If you want to edit the readme.md
+   - Edit your file
+   - Open your terminal
+   - Change your directory to the readme.md file
+   - Write the following commands
+     - git add .
+        - used to add all modified files only
         - git commit -m "modified i have made"
         - git push 
 
