@@ -30,6 +30,8 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - You will lose work
 - You will break things
 - You will not be able to find a solution immediately
+- image consists of small blocks called matrix
+- if i resize the image to smaller then try to revert it back again, that will destroy the image, it's better to make a new file
 
 ### How to install Ubuntu OS beside Windows 10
 
@@ -74,7 +76,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - nano : used to edit text file
 - git status : used to know the status of the md file i want to push
 - convert : used to manipulate images, resize and rotate and etc.
-
+rm : used to delete files and folders
 #### Notes about termianl
 
 - Commands are sensitve case
@@ -87,11 +89,10 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 ### github
 
 1. First sign up for github and register your information and confirm your email ...
-<a href="https://www.youtube.com/watch?v=6U7_Om4zffM
-" target="_blank"><img src="youtube.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
-[sign up video](https://www.youtube.com/watch?v=6U7_Om4zffM)
+[![Sign up video](maxresdefault.jpg)](https://www.youtube.com/watch?v=6U7_Om4zffM)
+
+[sign up video]()
 
 2. Naming the file readme.md ease showing it as a default document when open the respotory
 3. My respotory can be public or private
@@ -133,6 +134,10 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 - It uses markdown language, it is like html but easier and easy to understand and read
 - emoji can be used but after installing it's feature from the square on the lower left
 - It is better to leave one line between each line, there is another feature used to help in this method named markdownlint
+
+### Tuesday Notes
+
+
 
 ### Useful websites
 
