@@ -76,7 +76,8 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - nano : used to edit text file
 - git status : used to know the status of the md file i want to push
 - convert : used to manipulate images, resize and rotate and etc.
-rm : used to delete files and folders
+- rm : used to delete files and folders
+
 #### Notes about termianl
 
 - Commands are sensitve case
