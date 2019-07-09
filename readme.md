@@ -3,7 +3,6 @@
 
 # Welcome to Fab Lab Gharbiya  
 
-
 Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 
 ## Training contents
@@ -74,6 +73,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - man : used to show manual
 - nano : used to edit text file
 - git status : used to know the status of the md file i want to push
+- convert : used to manipulate images, resize and rotate and etc.
 
 #### Notes about termianl
 
@@ -87,6 +87,10 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 ### github
 
 1. First sign up for github and register your information and confirm your email ...
+<a href="https://www.youtube.com/watch?v=6U7_Om4zffM
+" target="_blank"><img src="youtube.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 [sign up video](https://www.youtube.com/watch?v=6U7_Om4zffM)
 
 2. Naming the file readme.md ease showing it as a default document when open the respotory
