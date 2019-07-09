@@ -125,6 +125,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
         - used to add all modified files only
     - git commit -m "modified i have made"
     - git push 
+7. If you want to delete files and recover it again, in case some thing happend and you want to back to earlier point
 
 ### Visual studio code
 
