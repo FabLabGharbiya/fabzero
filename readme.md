@@ -26,8 +26,6 @@
 
 Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 
-
-
 ##  1. <a name='Trainingcontents'></a>Training contents
 
 ###  1.1. <a name='Sofwares'></a>Sofwares
@@ -55,6 +53,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - You will not be able to find a solution immediately
 - image consists of small blocks called matrix
 - if i resize the image to smaller then try to revert it back again, that will destroy the image, it's better to make a new file
+- it is better to work on one thing only on the same time
 - It's better to document the machine condition and projects the created on it
 - Sharing economy : i will get benefig alot
 - Hidden file in linux startes with .
@@ -65,6 +64,8 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - 3D desin software like solidworks is an advanced software, and my lab doesent need all of these features, software like freecad can do the task and i can modify it to make what i want
 - We want to change our way of thinking by solve my problem by myself not waiting someone to solve me my problems
 - Why not using word or any other software to edit ?? any software can be died in a few years so my data will be lost, so by typing my data by normal editor i can do whatever i want
+- i should write in the description of the fablabs.io that lab not allowed for outside school fans
+- if two different people working on the same repository, if one of them modify the file then push and the other one modify then push that will give me error, so i should pull first then modify then push
 
 ###  1.3. <a name='Projectmanagement'></a>Project management
 
@@ -311,3 +312,6 @@ EDP
 [github](https://github.com/)
 
 [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+###  1.13. <a name='hiiiilsdkjf'></a>hiiii lsdkjf; 
+
