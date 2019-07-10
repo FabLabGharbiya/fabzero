@@ -33,6 +33,15 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - image consists of small blocks called matrix
 - if i resize the image to smaller then try to revert it back again, that will destroy the image, it's better to make a new file
 - It's better to document the machine condition and projects the created on it
+- Sharing economy : i will get benefig alot
+- Hidden file in linux startes with .
+- fablabs.io contains personal info. about me
+- github is monitored by google easily not gitlab.fabcloud.org
+- if you stops world will continue
+- Any thing can be done on any OS,but why we use linux : to go out of the comfortable zone and much powerful, faster and more secure and another reason the windows make me always a user and a consumer but ubuntu let be modify and can change every thing
+- 3D desin software like solidworks is an advanced software, and my lab doesent need all of these features, software like freecad can do the task and i can modify it to make what i want
+- We want to change our way of thinking by solve my problem by myself not waiting someone to solve me my problems
+- Why not using word or any other software to edit ?? any software can be died in a few years so my data will be lost, so by typing my data by normal editor i can do whatever i want
 
 ### Project management
 
@@ -118,6 +127,16 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - if i want to push pdf file i have to convert it to jpg : convert farmer.pdf farmer.jpg
 - then if i have to show the file i have to convert it again
 - if any error happend copy the errror and search for it
+- Block chain : like github 
+- gitlab.fabcloud : instead of github
+- git init : that what create the hidden folder .git
+- github is max 500 MB and if i push a large file i cannot remove it again, it stays forever
+- i cannot delete a specific thing but i can delete all the history
+- The github works line continuing blocks every bloack depending on the last one ... so that's why it is called block chains
+- Google doc can be used and it uses the same method of chain blocks, but the problem you have to restrict to google docs because i have to follow their rules
+- ssh key using : combine of two parts (private key, public key), private key with me only and public key will be available of all people, these two together initiate ssh key
+- how to generate ssh key in my computer
+- if the private hub became with some one else so he can push data and there is no security, if this happend i should delete the public key on the github and create new one
 
 ### Steps of dealing with github
 
@@ -236,6 +255,7 @@ EDP
   Recommendations
   
   Learning Outcomes
+
 
 
 
