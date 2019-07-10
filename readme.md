@@ -1,13 +1,36 @@
+<!-- vscode-markdown-toc -->
+* 1. [Training contents](#Trainingcontents)
+	* 1.1. [Sofwares](#Sofwares)
+	* 1.2. [Notes](#Notes)
+	* 1.3. [Project management](#Projectmanagement)
+	* 1.4. [How to install Ubuntu OS beside Windows 10](#HowtoinstallUbuntuOSbesideWindows10)
+	* 1.5. [Terminal Commands](#TerminalCommands)
+		* 1.5.1. [Notes about termianl](#Notesabouttermianl)
+	* 1.6. [github](#github)
+	* 1.7. [Steps of dealing with github](#Stepsofdealingwithgithub)
+	* 1.8. [Convert from  http to ssh](#Convertfromhttptossh)
+	* 1.9. [Visual studio code](#Visualstudiocode)
+	* 1.10. [Machines](#Machines)
+		* 1.10.1. [vinyl cutter](#vinylcutter)
+	* 1.11. [Schedule](#Schedule)
+	* 1.12. [Useful websites](#Usefulwebsites)
 
+<!-- vscode-markdown-toc-config
+	numbering=true
+	autoSave=true
+	/vscode-markdown-toc-config -->
+<!-- /vscode-markdown-toc -->
 ![logo](logo.png)
 
 # Welcome to Fab Lab Gharbiya  
 
 Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 
-## Training contents
 
-### Sofwares
+
+##  1. <a name='Trainingcontents'></a>Training contents
+
+###  1.1. <a name='Sofwares'></a>Sofwares
 
 - Free cad
 - openscad
@@ -20,7 +43,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - wine
 - vcarve
 
-### Notes
+###  1.2. <a name='Notes'></a>Notes
 
 - Pull learning better than push learning
 - Let them fail to learn
@@ -43,7 +66,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - We want to change our way of thinking by solve my problem by myself not waiting someone to solve me my problems
 - Why not using word or any other software to edit ?? any software can be died in a few years so my data will be lost, so by typing my data by normal editor i can do whatever i want
 
-### Project management
+###  1.3. <a name='Projectmanagement'></a>Project management
 
 - To manage students flow by good method the machines and tools should be organized to make the processes related to each other next to each other arranged one by one
 - Another method helps to manage students flow by prepare the students so that they can work alone and help each other, this can be done earlier in time there is no stress or load
@@ -54,7 +77,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
   4. prototype
   5. present
 
-### How to install Ubuntu OS beside Windows 10
+###  1.4. <a name='HowtoinstallUbuntuOSbesideWindows10'></a>How to install Ubuntu OS beside Windows 10
 
 1. Free up minimum 70 GB
 2. Shrink that space
@@ -77,7 +100,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 
 ![root](https://ivanblagojevic.com/wp-content/uploads/2014/03/how-to-install-ubuntu-14-04-pic-7a.png)
 
-### Terminal Commands
+###  1.5. <a name='TerminalCommands'></a>Terminal Commands
 
 ![terminal](terminal.png)
 
@@ -99,7 +122,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - convert : used to manipulate images, resize and rotate and etc.
 - rm : used to delete files and folders
 
-#### Notes about termianl
+####  1.5.1. <a name='Notesabouttermianl'></a>Notes about termianl
 
 - Commands are sensitve case
 - To add option to the command line we add - symbol, like >ls -l
@@ -108,7 +131,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - Using arrow keys : used to show old commands
 - Using tab key to complete the commands
 
-### github
+###  1.6. <a name='github'></a>github
 
 1. First sign up for github and register your information and confirm your email ...
 
@@ -138,7 +161,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - how to generate ssh key in my computer
 - if the private hub became with some one else so he can push data and there is no security, if this happend i should delete the public key on the github and create new one
 
-### Steps of dealing with github
+###  1.7. <a name='Stepsofdealingwithgithub'></a>Steps of dealing with github
 
 1. Sign up github
 2. Confirm email
@@ -166,7 +189,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 7. If you want to delete files and recover it again, in case some thing happend and you want to back to earlier point
 8. Deleting data is useful to recover when it lose
 
-### Convert from  http to ssh
+###  1.8. <a name='Convertfromhttptossh'></a>Convert from  http to ssh
 
 1. ssh-keygen -t rsa -b 4096 -C "your_email@example.com" : This creates a new ssh key, using the provided email as a label.
 2. Enter a file in which to save the key (/home/you/.ssh/id_rsa): [Press enter]
@@ -188,7 +211,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 17. begin to replace http by ssh we get from the get clone button using command : git remote set-url origin "paste the link here"
 18. done >>> weeeeeeeeeeeeeee
 
-### Visual studio code
+###  1.9. <a name='Visualstudiocode'></a>Visual studio code
 
 ![screenshot1](picture.png)
 
@@ -197,9 +220,9 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - emoji can be used but after installing it's feature from the square on the lower left
 - It is better to leave one line between each line, there is another feature used to help in this method named markdownlint
 
-### Machines
+###  1.10. <a name='Machines'></a>Machines
 
-#### vinyl cutter
+####  1.10.1. <a name='vinylcutter'></a>vinyl cutter
 
 Notes
 
@@ -230,7 +253,7 @@ Testing the blade
 6. Long press on test
 7. If the blade is good, the circle should be removed easily and the square stayes as it is
 
-### Schedule
+###  1.11. <a name='Schedule'></a>Schedule
 
 journal
   16/2/2019
@@ -281,7 +304,7 @@ EDP
 
 
 
-### Useful websites
+###  1.12. <a name='Usefulwebsites'></a>Useful websites
 
 [emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
