@@ -15,7 +15,6 @@
 	* 1.11. [Schedule](#Schedule)
 	* 1.12. [Useful websites](#Usefulwebsites)
 
-
 <!-- vscode-markdown-toc-config
 	numbering=true
 	autoSave=true
