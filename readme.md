@@ -66,6 +66,7 @@ Hello this is STEM Gharbiya school's Fab Lab :sunglasses:
 - Why not using word or any other software to edit ?? any software can be died in a few years so my data will be lost, so by typing my data by normal editor i can do whatever i want
 - i should write in the description of the fablabs.io that lab not allowed for outside school fans
 - if two different people working on the same repository, if one of them modify the file then push and the other one modify then push that will give me error, so i should pull first then modify then push
+- making new file contain every commands i want then sh file name to execute (nano filename ... making file ... save ... sh file name)
 
 ###  1.3. <a name='Projectmanagement'></a>Project management
 
@@ -302,9 +303,6 @@ EDP
   
   Learning Outcomes
 
-
-
-
 ###  1.12. <a name='Usefulwebsites'></a>Useful websites
 
 [emoji](https://www.webfx.com/tools/emoji-cheat-sheet/)
@@ -313,5 +311,4 @@ EDP
 
 [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-###  1.13. <a name='hiiiilsdkjf'></a>hiiii lsdkjf; 
 
