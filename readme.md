@@ -11,27 +11,27 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
 
 # Tables of contents
 
-1. [Installing UBUNTU](installing-ubuntu.md)
-2. [Terminals commands](terminals-commands.md)
+1. [Installing UBUNTU](/md-files/installing-ubuntu.md)
+2. [Terminals commands](/md-files/terminals-commands.md)
 
-    2.1. [Terminals notes](notes-about-terminal.md)
-3. [Visual studio code](visual-studio-code.md)
+    2.1. [Terminals notes](/md-files/notes-about-terminal.md)
+3. [Visual studio code](/md-files/visual-studio-code.md)
 4. [Github](github.md)
     
-    4.1. [Github Notes](dealing-with-github.md)
+    4.1. [Github Notes](/md-files/dealing-with-github.md)
     
-    4.2. [Converting from http to ssh](http-ssh.md)
+    4.2. [Converting from http to ssh](/md-files/http-ssh.md)
 5. Machines
 
-    5.1. [Vinyl cutter](vinyl.md)
+    5.1. [Vinyl cutter](/md-files/vinyl.md)
 
-    5.2. [shop bot](shopbot.md)
-6. [UBUNTU softwares](softwares.md)
-7. [Notes](notes.md)
-8. [Project managements](project-management.md)
-9. [Websites](websites.md)
-10. [Schedule](schedule.md)
-11. [Tasks](tasks.md)
+    5.2. [shop bot](/md-files/shopbot.md)
+6. [UBUNTU softwares](/md-files/softwares.md)
+7. [Notes](/md-files/notes.md)
+8. [Project managements](/md-files/project-management.md)
+9. [Websites](/md-files/websites.md)
+10. [Schedule](/md-files/schedule.md)
+11. [Tasks](/md-files/tasks.md)
 
 ## References
 
