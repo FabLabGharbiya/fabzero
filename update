@@ -1,6 +1,8 @@
 echo start updating documentation
 git pull
 git add .
-git commit -m "yallaaa"
+echo write the commit
+read var
+git commit -m "$var"
 git push
-echo iam done
+echo done pushing with commit $var
