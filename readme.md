@@ -14,7 +14,7 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
 1. [Installing UBUNTU](installing-ubuntu.md)
 2. [Terminals commands](terminals-commands.md)
 
-    2.1. [Terminals notes](notes-about-terminal)
+    2.1. [Terminals notes](notes-about-terminal.md)
 3. [Visual studio code](visual-studio-code)
 4. [Github](github.md)
     
