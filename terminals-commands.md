@@ -19,3 +19,5 @@
 - git status : used to know the status of the md file i want to push
 - convert : used to manipulate images, resize and rotate and etc.
 - rm : used to delete files and folders
+
+[Go back to readme file](readme.md)

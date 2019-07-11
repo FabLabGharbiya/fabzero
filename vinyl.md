@@ -28,3 +28,5 @@ Testing the blade
 5. Power on the machine and select roll
 6. Long press on test
 7. If the blade is good, the circle should be removed easily and the square stayes as it is
+
+[Go back to readme file](readme.md)

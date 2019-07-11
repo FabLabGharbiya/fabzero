@@ -27,3 +27,5 @@
 - ssh key using : combine of two parts (private key, public key), private key with me only and public key will be available of all people, these two together initiate ssh key
 - how to generate ssh key in my computer
 - if the private hub became with some one else so he can push data and there is no security, if this happend i should delete the public key on the github and create new one
+
+[Go back to readme file](readme.md)

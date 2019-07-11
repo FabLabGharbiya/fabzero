@@ -19,3 +19,5 @@
 16. then head to termianl and check the remote site by using git remote -v
 17. begin to replace http by ssh we get from the get clone button using command : git remote set-url origin "paste the link here"
 18. done >>> weeeeeeeeeeeeeee
+
+[Go back to readme file](readme.md)

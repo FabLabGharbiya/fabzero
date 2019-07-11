@@ -6,3 +6,5 @@
   - ls -lh >> h : means human readable
 - Using arrow keys : used to show old commands
 - Using tab key to complete the commands
+
+[Go back to readme file](readme.md)

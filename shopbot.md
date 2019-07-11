@@ -13,3 +13,5 @@ Notes
 
 - Speed of the spindle is 14000 RPM
 - emergency button should be in my hand during the job all the time
+
+[Go back to readme file](readme.md)
