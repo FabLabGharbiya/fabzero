@@ -1,6 +1,0 @@
-echo start updating documentation
-git pull
-git add . 
-git commit -m "yallaaa"
-git push
-echo iam done

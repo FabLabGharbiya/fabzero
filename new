@@ -1,5 +1,0 @@
-echo hii
-
-read var
-
-echo hello $var
