@@ -15,7 +15,7 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
 2. [Terminals commands](terminals-commands.md)
 
     2.1. [Terminals notes](notes-about-terminal.md)
-3. [Visual studio code](visual-studio-code)
+3. [Visual studio code](visual-studio-code.md)
 4. [Github](github.md)
     
     4.1. [Github Notes](dealing-with-github.md)
