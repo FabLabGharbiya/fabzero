@@ -21,7 +21,7 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
     4.1. [Github Notes](/md-files/dealing-with-github.md)
     
     4.2. [Converting from http to ssh](/md-files/http-ssh.md)
-5. Machines
+5. [Machines](/md-files/machines)
 
     5.1. [Vinyl cutter](/md-files/vinyl.md)
 
