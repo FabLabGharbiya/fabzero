@@ -2,7 +2,7 @@
 
 1. First sign up for github and register your information and confirm your email ...
 
-[![Sign up video](maxresdefault.jpg)](https://www.youtube.com/watch?v=6U7_Om4zffM)
+[![Sign up video](/images/maxresdefault.jpg)](https://www.youtube.com/watch?v=6U7_Om4zffM)
 
 [sign up video]()
 

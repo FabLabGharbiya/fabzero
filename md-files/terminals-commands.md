@@ -1,6 +1,6 @@
 # Terminal Commands
 
-![terminal](terminal.png)
+![terminal](/images/terminal.png)
 
 - ls : used to list all content of the current directory
 - clear : used to clear the screen of it's contents
