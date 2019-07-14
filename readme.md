@@ -1,5 +1,5 @@
 
-![logo](/home/ahmed/fabzero/images/logo.png)
+![logo](/images/logo.png)
 
 # Fab Lab Gharbiya STEM school
 
