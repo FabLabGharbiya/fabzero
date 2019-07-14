@@ -26,4 +26,4 @@
 7. If you want to delete files and recover it again, in case some thing happend and you want to back to earlier point
 8. Deleting data is useful to recover when it lose
 
-[Go back to readme file](/home/ahmed/fabzero/readme.md)
+[Go back to readme file](/readme.md)
