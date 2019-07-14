@@ -1,5 +1,5 @@
 
-![logo](/images/logo.png)
+![logo](/home/ahmed/fabzero/images/logo.png)
 
 # Fab Lab Gharbiya STEM school
 
@@ -30,7 +30,7 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
     5.3. [Laser cutter](md-files/laser.md)
 
 6. [3D Design](3d-design.md)
-6. [UBUNTU softwares](/md-files/softwares.md)
+7. [UBUNTU softwares](/md-files/softwares.md)
 7. [Notes](/md-files/notes.md)
 8. [Project managements](/md-files/project-management.md)
 9. [Websites](/md-files/websites.md)
@@ -38,7 +38,7 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
 10. [Schedule](/md-files/schedule.md)
 11. [Tasks](/md-files/tasks.md)
 
-## References
+##  1. <a name='References'></a>References
 
 Email : 
 
@@ -57,9 +57,3 @@ https://fablabs.io/users/elostaz007
 Facebook :
 
 https://www.facebook.com/fablab.gharbiya
-
-
-laser cutter
-- i have to make periodic maintainence by cleaning the lences and internal plate and the compressor filter
-- don't print on any metal you don't know
-- you can use fabmodulas but you will print raster and vector sepratly
