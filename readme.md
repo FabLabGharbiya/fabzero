@@ -16,12 +16,12 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
 
     2.1. [Terminals notes](/md-files/notes-about-terminal.md)
 3. [Visual studio code](/md-files/visual-studio-code.md)
-4. [Github](github.md)
+4. [Github](/md-files/github.md)
     
     4.1. [Github Notes](/md-files/dealing-with-github.md)
     
     4.2. [Converting from http to ssh](/md-files/http-ssh.md)
-5. [Machines](/md-files/machines)
+5. [Machines](/md-files/machines.md)
 
     5.1. [Vinyl cutter](/md-files/vinyl.md)
 
@@ -29,7 +29,7 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
 
     5.3. [Laser cutter](md-files/laser.md)
 
-6. [3D Design](3d-design.md)
+6. [3D Design](/md-files/3d-design.md)
 7. [UBUNTU softwares](/md-files/softwares.md)
 7. [Notes](/md-files/notes.md)
 8. [Project managements](/md-files/project-management.md)
