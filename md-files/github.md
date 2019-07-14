@@ -10,6 +10,9 @@
 3. My respotory can be public or private
 4. First we create readme.md file, then push it to github, later we can edit it and write a commit of the editing
 5. Text, images, emoji, tables, etc.... can be added to the file
+
+Notes
+
 - To delete your repository from setting, from bottom, danger zone, delete this repository
 - To recover your repostory
   1. get the link of the reposotory
@@ -27,5 +30,17 @@
 - ssh key using : combine of two parts (private key, public key), private key with me only and public key will be available of all people, these two together initiate ssh key
 - how to generate ssh key in my computer
 - if the private hub became with some one else so he can push data and there is no security, if this happend i should delete the public key on the github and create new one
+- there are copies of your work though tha changes you make
+- there are exacly the same copy locally on your pc in a hiddent folder called .git
+- each add. you make a copy of the modified files locally
+- each commit you make a copy of the locally file to the series of changes but locally
+- each push i upload the series online
+- it's better to commit for each point or solution or step
+- comminting for the whole day is not useful 
+- git reset head returns the file from git . step
+- files which add . will be commited, but files didn't add . will not be commited
+- `du fabzero` used to list all the files
+- `du -s fabzero` used to tell the size of the folder
+- `du -sh fabzero` used to tell the size by human way
 
 [Go back to readme file](readme.md)

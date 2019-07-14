@@ -10,6 +10,8 @@
   5. present
 - If i have tasks and a specific time i should split the time to each task, so each task takes amount of time approperiate to that task
 - I have to restrict to the specified time and if the time passed without finished the task i begin with the next task
-
+- If i have a problem i should depug it
+- top down depugging : like change the bit if it breaks
+- down top depugging : i have to know the reason
 
 [Go back to readme file](readme.md)
