@@ -54,13 +54,6 @@ Facebook :
 
 https://www.facebook.com/fablab.gharbiya
 
-    when i connect device it will be shown on
- Dev>usb>ip...
- list camm dile content
- cat file.camm : this means i send the file to the screen
- i can change the op to the machine
- cat file.cam > /dev/usb/ip0
- i can put the command direct in the fabmodulas
  to do list can be made inside my repository, in project tab i create new project and choose from template basic kanban
  i can made labels for each note
  if i have a problem i should depug it
@@ -81,16 +74,6 @@ https://www.facebook.com/fablab.gharbiya
  `du -s fabzero` used to tell the size of the folder
  `du -sh fabzero` used to tell the size by human way
 
- ls -l /dev/usb
-
-cat filename.camm > dev/usb/usbname
-problems that might occur
-have to use sudo order : write sudo before order
-you are not part of the users who can print : you have to add your self to that group ?
-first you need to know which group can print from the command : `ls -l /dev/usb/lp0`
-if appears : `root lp .....` thats mean i have to be root user and part of lp group
-then i have to know my groups : `groups ahmed`
-then i have to log out and log in again
 shopbot :
 working steps
 1. safety distance
