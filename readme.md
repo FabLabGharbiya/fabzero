@@ -26,7 +26,7 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
     5.1. [Vinyl cutter](/md-files/vinyl.md)
 
     5.2. [shop bot](/md-files/shopbot.md)
-6. [Raster and Vector](/md-files/raster-vector.md)
+6. [3D Design](3d-design.md)
 6. [UBUNTU softwares](/md-files/softwares.md)
 7. [Notes](/md-files/notes.md)
 8. [Project managements](/md-files/project-management.md)
@@ -53,20 +53,6 @@ https://fablabs.io/users/elostaz007
 Facebook :
 
 https://www.facebook.com/fablab.gharbiya
-
-    to make a 3d there are many ways
-    like 2d to 3d or make 3d shapes and make operation on all of them together
-    constructive solid geometry
-    begin with the basic shapes then union and intersections and operation 
-
-    free cad
-    view drawing
-    part
-    new
-
-    making to do and doing and done
-    be specifi when making to do task
-    from my repo i add project and i will find that feature
 
     when i connect device it will be shown on
  Dev>usb>ip...

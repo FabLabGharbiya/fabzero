@@ -29,4 +29,16 @@ Testing the blade
 6. Long press on test
 7. If the blade is good, the circle should be removed easily and the square stayes as it is
 
+Printing from UBUNTU
+
+- When i connect the vinyl file will appear in /dev/usb/
+- `cat filename.camm` : this means show send file content to the screen (O/P)
+- `cat filename.camm > /dev/usb/ip1` : used to send the file to the connected usb device
+- I can put the command directly at fabmoulas
+- If problem occuer and i cannot print
+- `ls -l /dev/usb/lp0` : to show the usb's group and user permission needed
+- `Groups ahmed` : to show my groups, `root lp .....`  if i'm not in the printer group, i cannot print, so i have to enter it's group
+- Then i have to log out and log in again
+
+
 [Go back to readme file](readme.md)
