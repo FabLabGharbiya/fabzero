@@ -25,4 +25,4 @@
 - if two different people working on the same repository, if one of them modify the file then push and the other one modify then push that will give me error, so i should pull first then modify then push
 - making new file contain every commands i want then sh file name to execute (nano filename ... making file ... save ... sh file name)
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)

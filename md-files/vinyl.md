@@ -40,4 +40,4 @@ Printing from UBUNTU
 - `Groups ahmed` : to show my groups, `root lp .....`  if i'm not in the printer group, i cannot print, so i have to enter it's group
 - Then i have to log out and log in again
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)

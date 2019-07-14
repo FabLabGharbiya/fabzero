@@ -43,4 +43,4 @@ Notes
 - `du -s fabzero` used to tell the size of the folder
 - `du -sh fabzero` used to tell the size by human way
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)

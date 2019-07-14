@@ -39,4 +39,4 @@ How to set the x and y and z orginis
 7. Put the metal plate under the bit and press on z set button until it touches the metal plate, if the bit is far i press on the emergency button fast
 8. After finishing i press the two emergency buttons and shutdown the power of the machine and put the emergency button on the shopbot and remove the usb and shutdown the pc
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)

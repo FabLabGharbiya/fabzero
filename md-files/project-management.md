@@ -14,4 +14,4 @@
 - top down depugging : like change the bit if it breaks
 - down top depugging : i have to know the reason
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)

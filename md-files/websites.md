@@ -6,4 +6,4 @@
 
 [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)

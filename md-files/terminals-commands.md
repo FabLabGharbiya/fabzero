@@ -20,4 +20,4 @@
 - convert : used to manipulate images, resize and rotate and etc.
 - rm : used to delete files and folders
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)

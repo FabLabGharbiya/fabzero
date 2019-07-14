@@ -10,4 +10,4 @@
 - wine
 - vcarve
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)

@@ -20,4 +20,4 @@
 17. begin to replace http by ssh we get from the get clone button using command : git remote set-url origin "paste the link here"
 18. done >>> weeeeeeeeeeeeeee
 
-[Go back to readme file](readme.md)
+[Go back to readme file](/readme.md)
