@@ -8,5 +8,8 @@
   3. How to use these tools
   4. prototype
   5. present
+- If i have tasks and a specific time i should split the time to each task, so each task takes amount of time approperiate to that task
+- I have to restrict to the specified time and if the time passed without finished the task i begin with the next task
+
 
 [Go back to readme file](readme.md)

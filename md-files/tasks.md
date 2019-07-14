@@ -1,7 +1,5 @@
 # Tasks
 
-about me,
-opencad
-arrange my readmefile
+search for hpgl language
 
 [Go back to readme file](readme.md)

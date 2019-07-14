@@ -2,9 +2,9 @@
 
 - Free cad
 - openscad
-- inkscape
+- [inkscape](/md-files/inkscape.md)
 - openscad
-- freecad
+- [freecad](/md-files/freecad.md)
 - kicad
 - gimp
 - wine

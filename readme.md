@@ -26,6 +26,7 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
     5.1. [Vinyl cutter](/md-files/vinyl.md)
 
     5.2. [shop bot](/md-files/shopbot.md)
+6. [Raster and Vector](/md-files/raster-vector.md)
 6. [UBUNTU softwares](/md-files/softwares.md)
 7. [Notes](/md-files/notes.md)
 8. [Project managements](/md-files/project-management.md)
@@ -52,3 +53,82 @@ https://fablabs.io/users/elostaz007
 Facebook :
 
 https://www.facebook.com/fablab.gharbiya
+
+    to make a 3d there are many ways
+    like 2d to 3d or make 3d shapes and make operation on all of them together
+    constructive solid geometry
+    begin with the basic shapes then union and intersections and operation 
+
+    free cad
+    view drawing
+    part
+    new
+
+    making to do and doing and done
+    be specifi when making to do task
+    from my repo i add project and i will find that feature
+
+    when i connect device it will be shown on
+ Dev>usb>ip...
+ list camm dile content
+ cat file.camm : this means i send the file to the screen
+ i can change the op to the machine
+ cat file.cam > /dev/usb/ip0
+ i can put the command direct in the fabmodulas
+ to do list can be made inside my repository, in project tab i create new project and choose from template basic kanban
+ i can made labels for each note
+ if i have a problem i should depug it
+ if iam doning something and problem happend, i should move it to problem column
+ top down depugging : like change the bit if it breaks
+ down top depugging : i have to know the reason
+ there are copies of your work though tha changes you make
+ there are exacly the same copy locally on your pc in a hiddent folder called .git
+ each add. you make a copy of the modified files locally
+ each commit you make a copy of the locally file to the series of changes but locally
+ each push i upload the series online
+ it's better to commit for each point or solution or step
+ comminting for the whole day is not useful 
+ git reset head returns the file from git . step
+ files which add . will be commited
+ but files didn't add . will not be commited
+ `du fabzero` used to list all the files
+ `du -s fabzero` used to tell the size of the folder
+ `du -sh fabzero` used to tell the size by human way
+
+ ls -l /dev/usb
+
+cat filename.camm > dev/usb/usbname
+problems that might occur
+have to use sudo order : write sudo before order
+you are not part of the users who can print : you have to add your self to that group ?
+first you need to know which group can print from the command : `ls -l /dev/usb/lp0`
+if appears : `root lp .....` thats mean i have to be root user and part of lp group
+then i have to know my groups : `groups ahmed`
+then i have to log out and log in again
+shopbot :
+working steps
+1. safety distance
+2. power on the electricity
+3. release the two emergency buttons
+4. power on the machine and hear the fan sound
+5. connect the usb and control button
+6. press on the reset button and hear small noise
+7. open the app
+notes:
+- i have to see the machine while moving the access
+- the button is designed so that each direction move the machine in the same as i see it
+- move the direction to check that it is working
+- x and y directions have limit switches but not z so i have to be careful when moving it
+how to set the x and y and z orginis
+1. after working steps make sure that z is at approperiate distance above the plate by making the z is 0
+2. when set the x and y automatically the z is set automatically at 25 high, so i have to be carefull of this feature
+3. after the machine is set to x and y zero
+4. to set z i use the metal plate
+5. i connecto the crocodile with the metal part that is used to connect it
+6. test the connectivity by making the bit and metal plate touch
+7. not put the metal plate under the bit and press on z set button until it touches the metal plate, if the bit is far i press on the emergency button fast
+8. after finishing i press the two emergency buttons and shutdown the power of the machine and put the emergency button on the shopbot and remove the usb and shutdown the pc
+laser cutter
+- i have to make periodic maintainence by cleaning the lences and internal plate and the compressor filter
+- don't print on any metal you don't know
+- you can use fabmodulas but you will print raster and vector sepratly
