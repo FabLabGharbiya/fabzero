@@ -21,4 +21,4 @@
 
 ![root](https://ivanblagojevic.com/wp-content/uploads/2014/03/how-to-install-ubuntu-14-04-pic-7a.png)
 
-[Go back to readme file](/home/ahmed/fabzero/readme.md)
+[Go back to readme file](/readme.md)
