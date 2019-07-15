@@ -23,7 +23,7 @@ Steps to makes local server
 16. npm install serialport
 17. next error : cannot find module ws
 18. npm install ws
-19. to start it node serialserver.js 127.0.0.
+19. to start it node serialserver.js 127.0.0.1 1234
 
 
 [Go back to readme file](/readme.md)
