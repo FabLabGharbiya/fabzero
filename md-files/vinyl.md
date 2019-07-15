@@ -40,4 +40,19 @@ Printing from UBUNTU
 - `Groups ahmed` : to show my groups, `root lp .....`  if i'm not in the printer group, i cannot print, so i have to enter it's group
 - Then i have to log out and log in again
 
+printing multilayer
+
+- download the logo or the req. picture
+- if the image is raster i should convert it to vector
+- it's better to work with the vector
+- how to search : fablab logo filetype;svg
+- inkscape
+- document properties
+- changing the colors to 3 colors and increase the contrast
+- we sholud print each color on it's roll.
+- stick the first color to the glass from outside
+- align the second color to the first one by the marks we made in them and cut the half of it then stick it and remove the back paper then do that to the other side
+- do the previous step for all the colors
+- take of the one has all the colors and stick it like we did in each color 
+
 [Go back to readme file](/readme.md)
