@@ -15,5 +15,15 @@ Steps to makes local server
 8. install node.js v12.x
 9. then go to section add the nodesource package signing key and follow the instruction
 10. then install from the ad the desired nodesource repository, but replace 8 with 12 and continue the other two steps
+11. sudo npm install http-server -g
+12. cd mods
+13. cd js
+14. node serialserver.js 127.0.0.1 1234
+15. if getting error : cannot find serial port
+16. npm install serialport
+17. next error : cannot find module ws
+18. npm install ws
+19. to start it node serialserver.js 127.0.0.
+
 
 [Go back to readme file](/readme.md)
