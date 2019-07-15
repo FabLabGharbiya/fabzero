@@ -28,5 +28,10 @@
 - If you want to make a machines you have to know how it works
 - The fablab is not a production store
 - The students should visit fablab to learn not to just work
-
+- Making pcb is a series of precesses, one step is missing so the whole processing is stopped
+- fab inventory : http://fab.cba.mit.edu/about/faq/
+- https://docs.google.com/spreadsheets/d/1U-jcBWOJEjBT5A0N84IUubtcHKMEMtndQPLCkZCkVsU/pub?single=true&gid=0&output=html
+- digikey : company for components
+- i have to make sure that compenets in their right places
+- if i use smd compenets i should cut the remaining parts of the container
 [Go back to readme file](/readme.md)
