@@ -44,15 +44,16 @@ printing multilayer
 
 - download the logo or the req. picture
 - if the image is raster i should convert it to vector
-- it's better to work with the vector
-- how to search : fablab logo filetype;svg
-- inkscape
-- document properties
-- changing the colors to 3 colors and increase the contrast
+- it's better that the image is vector from the begining
+- how to search for specific file : fablab logo filetype;svg
+- using inkscape software
+- `file > document properties`
+- we can use picture by changing it's colors to 3 colors and increase the contrast
 - we sholud print each color on it's roll.
-- stick the first color to the glass from outside
-- align the second color to the first one by the marks we made in them and cut the half of it then stick it and remove the back paper then do that to the other side
+- by using tab mask we stick it to the first color and then put the tab mask on the surface i want to attach the sticker to it
+- remove the tab mask from it and stick it to the next layer of roll (different color)
+- align the second color to the first one by the marks we made in them and stick it from it's terminals then begin to remove the sticker from it's original paper and make sure that it is stick to the tab mask then cut the extracted paper then stick that half to the surface then do that to the other side
 - do the previous step for all the colors
-- take of the one has all the colors and stick it like we did in each color 
+- after putting all layers now i can remove marks i put to align
 
 [Go back to readme file](/readme.md)

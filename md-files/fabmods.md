@@ -5,26 +5,37 @@
 
 Steps to makes local server
 
-1. https://gitlab.cba.mit.edu/pub/mods
-2. mods view project
-3. so i clone the website contents by pressing on clone then copy the http link and write `git clone link`
-4. i have to make sure i'm not in the fabzero folder so in the next push command i don't push these files
-5. then search for nodesources github
-6. select the distribtion link
-7. go to installation instruction
-8. install node.js v12.x
-9. then go to section add the nodesource package signing key and follow the instruction
-10. then install from the ad the desired nodesource repository, but replace 8 with 12 and continue the other two steps
-11. sudo npm install http-server -g
-12. cd mods
-13. cd js
-14. node serialserver.js 127.0.0.1 1234
-15. if getting error : cannot find serial port
-16. npm install serialport
-17. next error : cannot find module ws
-18. npm install ws
-19. to start it node serialserver.js ::ffff:127.0.0.1 1234
-20. write the ip on the website
+1. http://mods.cba.mit.edu/
+2. options > view project
+3. install node.js : `npm install npm -g`
+4. check the version of node : `node -v`
+5. check the version of nvm : `npm -v`
+6. install http-server : `npm install http-server -g`
+7. clone mods repository `git clone https://gitlab.cba.mit.edu/pub/mods.git`
+8. i have to make sure i'm not in the fabzero folder so in the next push command i don't push these files
+9. head to mods folder : `cd mods`
+10. run server : `http-server`
+11. Open a browser tab and go to `127.0.0.1:8080` which is the same as http://localhost:8080 to view the server that you just started.
+12. head to js folder : `cd js`
+13. run : `node serialserver.js ::ffff:127.0.0.1 1234`
 
+some problems might occeur so the next steps to solve this problem
+
+14. search for nodesources github
+15. select the distribtion link
+16. go to installation instruction
+17. install node.js v12.x : `curl -sL https://deb.nodesource.com/setup_12.x | sudo -E bash -` and `sudo apt-get install -y nodejs`
+18. then go to section add the nodesource package signing key and follow the instruction : `curl -sSL https://deb.nodesource.com/gpgkey/nodesource.gpg.key | sudo apt-key add -`
+19. then install from the add the desired nodesource repository, but replace 8 with 12 and continue the other two steps : `DISTRO="$(lsb_release -s -c)"` and `echo "deb https://deb.nodesource.com/$VERSION $DISTRO main" | sudo tee /etc/apt/sources.list.d/nodesource.list` and `echo "deb-src https://deb.nodesource.com/$VERSION $DISTRO main" | sudo tee -a /etc/apt/sources.list.d/nodesource.list`
+20. then try to test again the port and server
+21. npm install serialport
+22. next error : cannot find module ws
+23. npm install ws
+
+alternative solution
+
+The sibusaman repository called mods contains the solution steps also
+
+https://github.com/sibusaman/mods
 
 [Go back to readme file](/readme.md)
