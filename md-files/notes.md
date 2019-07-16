@@ -36,6 +36,6 @@
 - if i use smd compenets i should cut the remaining parts of the container
 - i should sort the components by order and type
 - 3d printer problems : search 3d printing troubleshooting and ultimaker troublshooting
-
+- alt + f2 to run programms by writing it's name
 
 [Go back to readme file](/readme.md)

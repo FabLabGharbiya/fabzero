@@ -31,6 +31,7 @@ some problems might occeur so the next steps to solve this problem
 21. npm install serialport
 22. next error : cannot find module ws
 23. npm install ws
+24. google chrome is best for running mods
 
 alternative solution
 
