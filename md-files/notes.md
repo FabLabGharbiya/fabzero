@@ -37,5 +37,6 @@
 - i should sort the components by order and type
 - 3d printer problems : search 3d printing troubleshooting and ultimaker troublshooting
 - alt + f2 to run programms by writing it's name
+- using sudo to write so i have to use sudo
 
 [Go back to readme file](/readme.md)

@@ -39,4 +39,16 @@ The sibusaman repository called mods contains the solution steps also
 
 https://github.com/sibusaman/mods
 
+alternative solution
+
+- clone mods
+- head to mods directory
+- install npm using : `npm install http-server`
+- warning it is okay not error
+
+How to work on it
+- http://mods.cba.mit.edu/
+- https://sibusaman.github.io/mods/
+- we can add modules
+
 [Go back to readme file](/readme.md)
