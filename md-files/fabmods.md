@@ -45,6 +45,13 @@ alternative solution
 - head to mods directory
 - install npm using : `npm install http-server`
 - warning it is okay not error
+- head to js directory
+- install ws : `npm install ws`
+- install serialserver : `npm install serialserver`
+- /dev/tty* is a serial device
+- /dev/usb/lp* is a printer , device server
+- start the server : from mods directory we write `hs`
+
 
 How to work on it
 - http://mods.cba.mit.edu/
