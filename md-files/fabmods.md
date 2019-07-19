@@ -51,7 +51,7 @@ alternative solution
 - /dev/tty* is a serial device
 - /dev/usb/lp* is a printer , device server
 - start the server : from mods directory we write `hs`
-
+- how to update the sibu mods : `git pull` there is a .get file contains the repo link, to know the link we use `git remote -v`
 
 How to work on it
 - http://mods.cba.mit.edu/

@@ -38,5 +38,7 @@
 - 3d printer problems : search 3d printing troubleshooting and ultimaker troublshooting
 - alt + f2 to run programms by writing it's name
 - using sudo to write so i have to use sudo
+- i can take a picture of something like circuit board and draw a rectangle with known dimension and zoom in or zoom out until the known dimension appears
+- all of the problems appear it's part of the learning process
 
 [Go back to readme file](/readme.md)
