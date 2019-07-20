@@ -23,7 +23,7 @@
         - used to add all modified files only
     - `git commit -m "modified i have made"`
     - `git push` 
-7. to make a file to update the repo automatically
+7. To send commit manually from the user (update is the file name)
 ```
 sh update hi how are you
     - git pull
