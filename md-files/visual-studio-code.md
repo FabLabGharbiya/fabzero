@@ -8,5 +8,6 @@
 - It is better to leave one line between each line, there is another feature used to help in this method named markdownlint
 - if i use ` it will change the format
 - or ``` code block ``` to make a a block of code
+- html codes can be inserted inside markdown by typing`<div dir="rtl">the markdown language i want from right to left</div>`
 
 [Go back to readme file](/readme.md)
