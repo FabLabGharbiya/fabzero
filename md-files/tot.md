@@ -40,14 +40,15 @@
   on 5 / 8 / 2019
   introduction to c language (library, DDRX, PORTX, _delay_ms(1000))
   ```
-- got to `dev` directory to show if there is a device has been connected to the pc   
-![dev](/images/dev.png)
-- `dmesg -w` : to monitor the devices which has been connected and disconnected   
-![dmesg](/images/dmesg.png)   
-![dmesg2](/images/dmesg2.png)   
-![dmesg3](/images/dmesg3.png)
-- use `ls -l name-of-the-newfile-appeared` : to know the group of the connected device   
-![ls](/images/ls.png)   
-![ls2](/images/ls2.png)   
-- use `groups name-of-your-user` to show your groups   
-![groups](/images/groups.png)
+- Arduino connecting
+  - go to `dev` directory to show if there is a device has been connected to the pc   
+  ![dev](/images/dev.png)
+  - `dmesg -w` : to monitor the devices which has been connected and disconnected   
+  ![dmesg](/images/dmesg.png)   
+  ![dmesg2](/images/dmesg2.png)   
+  ![dmesg3](/images/dmesg3.png)
+  - use `ls -l name-of-the-newfile-appeared` : to know the group of the connected device   
+  ![ls](/images/ls.png)   
+  ![ls2](/images/ls2.png)   
+  - use `groups name-of-your-user` to show your groups   
+  ![groups](/images/groups.png)
