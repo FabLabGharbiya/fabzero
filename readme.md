@@ -38,12 +38,13 @@ My name is Ahmed khairy, i'm a fab lab manager at gharbiya stem school, it is a 
 
 6. [3D Design](/md-files/3d-design.md)
 7. [UBUNTU softwares](/md-files/softwares.md)
-7. [Notes](/md-files/notes.md)
-8. [Project managements](/md-files/project-management.md)
-9. [Websites](/md-files/websites.md)
-10. [To Do list](/md-files/todolist.md)
-10. [Schedule](/md-files/schedule.md)
-11. [Tasks](/md-files/tasks.md)
+8. [Notes](/md-files/notes.md)
+9. [Project managements](/md-files/project-management.md)
+10. [TOT](/md-files/tot.md)
+11. [Websites](/md-files/websites.md)
+12. [To Do list](/md-files/todolist.md)
+13. [Schedule](/md-files/schedule.md)
+14. [Tasks](/md-files/tasks.md)
 
 ##  1. <a name='References'></a>References
 
