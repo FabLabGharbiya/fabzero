@@ -52,3 +52,17 @@
   ![ls2](/images/ls2.png)   
   - use `groups name-of-your-user` to show your groups   
   ![groups](/images/groups.png)
+
+## Day 2 - 6/8/2019
+
+- arduino programming
+  - using arduino pinout to know the pin number   
+  ![pinout](/images/arduino-pinout.png)
+  - code 1 :   
+  ![code1](/images/code1.png)
+  - code 2 :   
+  ![code2](/images/code2.png)
+  - code 3 :
+  ![code3](/images/code3.png)
+  - code 4 :
+  ![code4](/images/code4.png)
