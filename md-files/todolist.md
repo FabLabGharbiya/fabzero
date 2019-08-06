@@ -1,8 +1,7 @@
 # To Do list
 
-To do list can be made inside my repository by these steps
-I can made labels for each note
-If iam doning something and problem happend, i should move it to problem column
-I can add new coloumn depending on me
+- Documentations
+- c coding
+- 
 
 [Go back to readme file](/readme.md)
