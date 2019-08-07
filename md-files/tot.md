@@ -56,7 +56,7 @@
 ## Day 2 - 6/8/2019
 
 - arduino programming
-  - using arduino pinout to know the pin number   
+  - search for `arduino pinout` to know the pin number   
   ![pinout](/images/arduino-pinout.png)
   - code 1 :   
   ![code1](/images/code1.png)
@@ -66,3 +66,41 @@
   ![code3](/images/code3.png)
   - code 4 :
   ![code4](/images/code4.png)
+  - code 5 :
+  ![code5](/images/code5.png)
+  - every pin is connected internally to pull up resistor, so it's better to connect the switch to ground instead of connected it to vcc by typing `portx=0b11111111;`   
+   ![code6](/images/code6.png)
+   - if i use the same port for input and output, when i want to read the input pin and don't know the value of the output pin i have to force it to 0 by using `if(PINB & 0b00000010)`
+   - `DDRB = 0b00100001;` =  `DDRB = (1<<PB5) | (1<<PB0)`
+   - `PORTB = 0b00000001;` =  `PORTB = (1<<PB0)`
+   - set bit : `REG | = (1<<PIN)`
+   - clear bit : `REG & = ~(1<<PIN)`
+   - test bit : `REG & (1<<pin)`
+   - example : 
+   ```
+   if(!(PINB & (1<<PB1)))
+   PORTB | = (1<<PB0)
+   else
+   PORTB &=~(1<<PB0)
+   ```
+   - ! : logical operator to check to value
+   - ~ : bitwise operator
+- electronics circuit
+  - eagle installing
+  - download library from https://gitlab.cba.mit.edu/pub/libraries/blob/master/eagle/fab.lbr
+  - put components
+  - get missing library from `snapeda`
+  - we should connect the pins according to the datasheet
+  - on eagle the pins on the right may be input or output, and i can leave them not connected, but the pins on the left is important to connect them
+  - esp01
+    - connect rst to vcc to use as device or preferial to gnd
+    - ch_pd : to enable or disable the module, we can connect it to output pin of microcontroller
+    - i have to connect rx of wifi to tx of microcontroller through voltage divider
+    - use rtd whatson bridge as an input device
+    - mil = 1000 inch
+    - drc clearnce make it 0.4, size make it 0.4
+    - min hole depending on dimension of 1/32
+
+## Day 2 - 7/8/2019
+
+- using delay in code causing the microcontroller to stop until the delay finish
