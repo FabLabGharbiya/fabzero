@@ -1,4 +1,5 @@
 # TOT week
+https://gitlab.fabcloud.org/fabzero/fabzero/blob/master/program/final/iot.md
 
 ## Day 1 - 5/8/2019
 
@@ -101,6 +102,38 @@
     - drc clearnce make it 0.4, size make it 0.4
     - min hole depending on dimension of 1/32
 
-## Day 2 - 7/8/2019
+## Day 3 - 7/8/2019
 
 - using delay in code causing the microcontroller to stop until the delay finish
+- using interrupt
+  - interrupt is useful when do more than one thing at the same time
+  - configuring interrupt (we won't use int0, int1)
+  - we will use pcint interrupt
+  - open datasheet
+  - search for interrupt and go to external interrupt
+  - to enable the interrupt i have to enable all and activate the range then activate the wanted pin
+  - for each activation there is a register reponsible for it i have to find it in the datasheet
+  - i have to include the interrupt
+  - use `locate name of the folder`
+- eagle
+  - wire 0.8mm (0 0)(0 50mm)(50mm 50mm)(50mm 0)(0 0)
+  - i can use quick route to connect components
+  - when show specific layers i can make a new set and show some layers
+  - give the boarder a random color
+  - then fill and remain the holes and boarder
+  - to turn the png to black and white : choose mode indexed use black and white
+  - set resolution to 2000
+  - capacitor for reducing noise should be close
+  - crystal termainals should be equal to each other
+- contextual electronics to check kicad videos
+
+## Day 4 - 8/8/2019
+
+- watch this video https://www.youtube.com/watch?v=ERY7d7W-6nA
+- watch this movie lo and behold
+- read this book on the pin drive
+- thingspeak
+- in eagle after making the board i put a milling boarder by wire it's width is 0.8 mm
+- if i want to make the traces i can go into options then set and hide the drills
+- now go to gimp sw and go to scale image and change the dimension to mm and put the resolution i put before
+- then continue working on image
