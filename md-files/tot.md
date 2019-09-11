@@ -131,7 +131,6 @@ https://gitlab.fabcloud.org/fabzero/fabzero/blob/master/program/final/iot.md
 
 - watch this video https://www.youtube.com/watch?v=ERY7d7W-6nA
 - watch this movie `lo and behold`
-<<<<<<< HEAD
 - thingspeak account
 - in eagle after finishing the board i put a milling boarder using milling layer and wire width of 0.8 mm
 - if i want to make the traces i can go into options then set and hide the drills
@@ -152,11 +151,9 @@ https://gitlab.fabcloud.org/fabzero/fabzero/blob/master/program/final/iot.md
     - admin > add printer > the name of printer has to be 'vinyl' because that name used in fabmodules > make > raw > model > raw queue
   - laser cutter uses `laser`
   - propelien is good to cut on laser and used in flexible circuits
-=======
 - read this book on the pin drive
 - thingspeak
 - in eagle after making the board i put a milling boarder by wire it's width is 0.8 mm
 - if i want to make the traces i can go into options then set and hide the drills
 - now go to gimp sw and go to scale image and change the dimension to mm and put the resolution i put before
 - then continue working on image
->>>>>>> 10d90aecc3be887c7b287593da41dc8fd6a7d80d
