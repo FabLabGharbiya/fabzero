@@ -1,6 +1,7 @@
 /*
    written by Ahmed khairy
    on moday 10/9/2019
+   using arduino uno
    loop and pattern
 */
 #include <avr/io.h>
@@ -26,5 +27,5 @@ int main(void)
       x--;
     }
   }
-return (0);
+  return (0);
 }

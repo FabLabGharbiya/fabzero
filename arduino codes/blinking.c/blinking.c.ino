@@ -1,8 +1,9 @@
 /*
- * Written by Ahmed khairy for TOT training
- * on 5/8/2019
- * introduction to c language (library, DDRx, PORTx, _delay_ms(1000)
- */
+   Written by Ahmed khairy for TOT training
+   on 5/8/2019
+   using arduino uno
+   introduction to c language (library, DDRx, PORTx, _delay_ms(1000)
+*/
 #include <avr/io.h>
 #include <util/delay.h>
 

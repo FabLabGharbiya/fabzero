@@ -1,6 +1,7 @@
 /*
    written by Ahmed khairy
    on moday 11/9/2019
+   using arduino uno
    two ports led pattern
 */
 #include <avr/io.h>

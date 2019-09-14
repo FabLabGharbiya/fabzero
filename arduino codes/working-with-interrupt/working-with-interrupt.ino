@@ -1,6 +1,7 @@
 /*
    Written by Ahmed khairy for TOT training
    on 7/8/2019
+   using arduino uno
    first we made led blinking
    second we make interrupt
    third put the routine in it

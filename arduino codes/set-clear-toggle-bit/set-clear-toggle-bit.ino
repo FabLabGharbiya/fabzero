@@ -1,6 +1,7 @@
 /*
    written by Ahmed khairy
    on moday 11/9/2019
+   using arduino uno
    set, clear and toggle bits
 */
 #include <avr/io.h>
@@ -25,5 +26,5 @@ int main(void)
       _delay_ms(200);
     }
   }
-    return (0);
-  }
+  return (0);
+}

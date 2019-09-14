@@ -1,6 +1,7 @@
 /*
    written by Ahmed khairy
    on moday 11/9/2019
+   using arduino uno
    set, clear and toggle bits
 */
 #include <avr/io.h>

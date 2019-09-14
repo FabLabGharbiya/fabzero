@@ -1,6 +1,7 @@
 /*
    Written by Ahmed khairy for TOT training
    on 6/8/2019
+   using arduino uno
    one blink other is controlled by button
    external blinking led on pb0
    internal controlled led on onboard led 13

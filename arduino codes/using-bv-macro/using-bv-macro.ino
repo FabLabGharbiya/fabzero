@@ -1,6 +1,7 @@
 /*
    written by Ahmed khairy
    on moday 10/9/2019
+   using arduino uno
    using _BV(x) macro
 */
 #include <avr/io.h>

@@ -1,6 +1,7 @@
 /*
    Written by Ahmed khairy for TOT training
    on 6/8/2019
+   using arduino uno
    button and led on the same port
 */
 #include <avr/io.h>

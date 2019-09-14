@@ -1,8 +1,9 @@
 /*
- * Written by Ahmed khairy for TOT training
- * on 6/8/2019
- * pattern two leds 2
- */
+   Written by Ahmed khairy for TOT training
+   on 6/8/2019
+   using arduino uno
+   pattern two leds 2
+*/
 #include <avr/io.h>
 #include <util/delay.h>
 

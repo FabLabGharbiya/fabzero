@@ -21,7 +21,7 @@
 - `rm -rf ....` : used to delete files and folder but with option of force and folder
 - `locate` : used to find files or folders in your pc
 - `find . -type f -name "*.3gp" | xargs -i mv {} 3gp/` : to move many files
-- ```
+ ```
 for i in $(seq 1 1 300)
 do
 rm -r recup_dir.$i

@@ -1,6 +1,7 @@
 /*
    written by Ahmed khairy
    on moday 10/9/2019
+   using arduino uno
    test shifting with (1<<3) method
 */
 #include <avr/io.h>

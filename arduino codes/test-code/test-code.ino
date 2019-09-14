@@ -1,6 +1,7 @@
 /*
     Writter by Ahmed khairy
     on Wednesday 7/8/2019
+    using arduino uno
     Testing all instruction until today
 */
 #include <avr/io.h>
